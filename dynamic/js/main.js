@@ -1,7 +1,7 @@
-var SEED = 100;
+var SEED = 60;
 var DIRECTIONS = [[0, 1], [1, 0]];
-var COLUMNS = 20;
-var ROWS = 20;
+var COLUMNS = 14;
+var ROWS = 14;
 var SQUARE_SIZE = 12;
 var swatches = ['#03bfb8', '#2a54b0', '#ea5514'];
 var exportSVG = false;
