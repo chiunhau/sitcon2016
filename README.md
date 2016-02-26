@@ -34,10 +34,14 @@
 
 
 ### 參考資料
+- [簡報下載]()
 - [p5.js 的 Github](https://github.com/processing/p5.js)
 - [Processing works by @aprilcoffee](https://www.instagram.com/aprilcoffee/)
 - [動態識別設計的實驗](http://chiunhau.github.io/p5/dynamic)
-- [簡報下載]()
+- [p5.js 學生作品 1](http://chiunhau.github.io/p5-ltsh/Maggie/)
+- [p5.js 學生作品 2](http://chiunhau.github.io/p5-ltsh/tracy/)
+- [荷包蛋的逆襲-使用 Paper.js](http://chiunhau.github.io/egg/)
+- 
 
 ## 關於講者
 
