@@ -41,7 +41,6 @@
 - [p5.js 學生作品 1](http://chiunhau.github.io/p5-ltsh/Maggie/)
 - [p5.js 學生作品 2](http://chiunhau.github.io/p5-ltsh/tracy/)
 - [荷包蛋的逆襲-使用 Paper.js](http://chiunhau.github.io/egg/)
-- 
 
 ## 關於講者
 
