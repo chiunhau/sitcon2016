@@ -34,9 +34,10 @@
 
 
 ### 參考資料
-- 我同學的 Instagram：@aprilcoffee
+- [p5.js 的 Github](https://github.com/processing/p5.js)
+- [Processing works by @aprilcoffee](https://www.instagram.com/aprilcoffee/)
 - [動態識別設計的實驗](http://chiunhau.github.io/p5/dynamic)
-- [這次的簡報]()
+- [簡報下載]()
 
 ## 關於講者
 
