@@ -34,7 +34,7 @@
 
 
 ### 參考資料
-- [簡報下載]()
+- [簡報下載](http://www.slideshare.net/chiunhau/js-library)
 - [p5.js 的 Github](https://github.com/processing/p5.js)
 - [Processing works by @aprilcoffee](https://www.instagram.com/aprilcoffee/)
 - [動態識別設計的實驗](http://chiunhau.github.io/p5/dynamic)
